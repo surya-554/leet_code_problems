@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/surya-554/leet_code_problems/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/surya-554/leet_code_problems/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/surya-554/leet_code_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/surya-554/leet_code_problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/surya-554/leet_code_problems/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/surya-554/leet_code_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/surya-554/leet_code_problems/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/surya-554/leet_code_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
