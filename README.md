@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/surya-554/leet_code_problems/tree/master/0066-plus-one) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/surya-554/leet_code_problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/surya-554/leet_code_problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/surya-554/leet_code_problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
