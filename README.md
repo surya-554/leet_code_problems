@@ -20,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/surya-554/leet_code_problems/tree/master/0066-plus-one) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/surya-554/leet_code_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
