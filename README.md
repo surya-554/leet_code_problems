@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/surya-554/leet_code_problems/tree/master/0977-squares-of-a-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/surya-554/leet_code_problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
