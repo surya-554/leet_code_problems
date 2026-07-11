@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/surya-554/leet_code_problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya-554/leet_code_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/surya-554/leet_code_problems/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/surya-554/leet_code_problems/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/surya-554/leet_code_problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/surya-554/leet_code_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/surya-554/leet_code_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,7 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/surya-554/leet_code_problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/surya-554/leet_code_problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/surya-554/leet_code_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surya-554/leet_code_problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/surya-554/leet_code_problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
