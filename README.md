@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/surya-554/leet_code_problems/tree/master/0344-reverse-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/surya-554/leet_code_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surya-554/leet_code_problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/surya-554/leet_code_problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/surya-554/leet_code_problems/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/surya-554/leet_code_problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surya-554/leet_code_problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
