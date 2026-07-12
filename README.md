@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/surya-554/leet_code_problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/surya-554/leet_code_problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/surya-554/leet_code_problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya-554/leet_code_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/surya-554/leet_code_problems/tree/master/0189-rotate-array) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/surya-554/leet_code_problems/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/surya-554/leet_code_problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
