@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/surya-554/leet_code_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0912-sort-an-array](https://github.com/surya-554/leet_code_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/surya-554/leet_code_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/surya-554/leet_code_problems/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/surya-554/leet_code_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/surya-554/leet_code_problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/surya-554/leet_code_problems/tree/master/1480-running-sum-of-1d-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/surya-554/leet_code_problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/surya-554/leet_code_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/surya-554/leet_code_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1207-unique-number-of-occurrences](https://github.com/surya-554/leet_code_problems/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
