@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/surya-554/leet_code_problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/surya-554/leet_code_problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/surya-554/leet_code_problems/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/surya-554/leet_code_problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/surya-554/leet_code_problems/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/surya-554/leet_code_problems/tree/master/1527-patients-with-a-condition) |
 | [1890-the-latest-login-in-2020](https://github.com/surya-554/leet_code_problems/tree/master/1890-the-latest-login-in-2020) |
