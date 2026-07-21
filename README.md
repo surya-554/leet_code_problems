@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/surya-554/leet_code_problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/surya-554/leet_code_problems/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/surya-554/leet_code_problems/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/surya-554/leet_code_problems/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/surya-554/leet_code_problems/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/surya-554/leet_code_problems/tree/master/1527-patients-with-a-condition) |
 ## Dynamic Programming
