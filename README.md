@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/surya-554/leet_code_problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/surya-554/leet_code_problems/tree/master/0189-rotate-array) |
+| [1406-stone-game-iii](https://github.com/surya-554/leet_code_problems/tree/master/1406-stone-game-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/surya-554/leet_code_problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/surya-554/leet_code_problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/surya-554/leet_code_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/surya-554/leet_code_problems/tree/master/1207-unique-number-of-occurrences) |
+| [1406-stone-game-iii](https://github.com/surya-554/leet_code_problems/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/surya-554/leet_code_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/surya-554/leet_code_problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/surya-554/leet_code_problems/tree/master/1480-running-sum-of-1d-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya-554/leet_code_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1406-stone-game-iii](https://github.com/surya-554/leet_code_problems/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,4 +145,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/surya-554/leet_code_problems/tree/master/0387-first-unique-character-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/surya-554/leet_code_problems/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/surya-554/leet_code_problems/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/surya-554/leet_code_problems/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
